@@ -411,6 +411,10 @@ OpenSpec将每个功能的变更分组到一个文件夹中（`openspec/changes/
 - 本地开发CLI：`pnpm run dev` 或 `pnpm run dev:cli`
 - 约定式提交（单行）：`type(scope): subject`
 
+## 赞助
+
+[vsllm](https://vsllm.com)
+
 ## 许可证
 
 MIT
